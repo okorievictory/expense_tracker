@@ -1,0 +1,23 @@
+body{
+	margin: 20px;
+	padding: 0px;
+	background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url("img1.jpeg");
+	color: white;
+}
+h1{
+	text-align: center;
+}
+span{
+	color: #6C63FF;
+}
+span.colored{
+	color: #6C63FF;
+}
+input{
+	border-radius: 10px;
+	border: 1px solid #6C63FF;
+}
+button{
+	border-radius: 10px;
+	border: 1px solid #6C63FF;
+}
